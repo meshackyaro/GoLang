@@ -19,7 +19,7 @@ func main() {
 		fmt.Print("Enter total of all items charged this month: ")
 		fmt.Scan(&totalCharges)
 
-		fmt.Print("Enter total of all credits applied this month: ")
+		fmt.Print("Enter total of all customer credits applied this month: ")
 		fmt.Scan(&totalCredit)
 
 		fmt.Print("Enter allowed credit limit: ")
